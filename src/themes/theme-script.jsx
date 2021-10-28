@@ -1,5 +1,5 @@
 import React from 'react'
-import Terser from 'terser'
+import { minify } from 'terser'
 
 const themeScriptFn = () => {
     window.__onThemeChange = () => {}
@@ -31,7 +31,7 @@ const themeScriptFn = () => {
 }
 
 const themeScriptString = `(${String(themeScriptFn)})()`
-const minifiedThemeScriptString = Terser.minify(themeScriptString).code
+const minifiedThemeScriptString = minify(themeScriptString).code
 
 const ThemeScript = (
     <script
