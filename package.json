@@ -83,7 +83,7 @@
         "gatsby-transformer-sharp": "^2.5.12",
         "intersection-observer": "^0.11.0",
         "libphonenumber-js": "^1.7.56",
-        "node-sass": "^4.14.1",
+        "node-sass": "^6.0.1",
         "path": "^0.12.7",
         "prismjs": "^1.21.0",
         "react": "^16.12.0",
