@@ -79,7 +79,7 @@
         "gatsby-remark-prismjs": "^3.5.4",
         "gatsby-remark-smartypants": "^2.3.10",
         "gatsby-source-filesystem": "^2.3.24",
-        "gatsby-transformer-remark": "^2.8.28",
+        "gatsby-transformer-remark": "^5.0.0",
         "gatsby-transformer-sharp": "^2.5.12",
         "intersection-observer": "^0.11.0",
         "libphonenumber-js": "^1.7.56",
@@ -148,7 +148,7 @@
         "jest": "^26.2.2",
         "node-fetch": "^2.6.0",
         "opentracing": "^0.14.4",
-        "prettier": "2.0.5",
+        "prettier": "2.4.1",
         "prop-types": "^15.7.2",
         "react-test-renderer": "^16.13.1",
         "redux-mock-store": "^1.5.4",
@@ -158,6 +158,6 @@
         "surge": "^0.21.6",
         "ts-node": "^8.10.2",
         "typescript": "^3.9.7",
-        "vercel": "^19.2.0"
+        "vercel": "^23.1.2"
     }
 }
