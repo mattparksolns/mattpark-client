@@ -53,3 +53,4 @@
 -   how to blur the entire navbar background correctly?
 -   contact info - how to center icon + text without flex row?
 -   do i need eslint-import-resolver-webpack?
+-   removing dependabot and vercel and netlify
