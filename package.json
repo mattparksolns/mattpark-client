@@ -155,7 +155,7 @@
         "sass": "^1.26.10",
         "source-map-support": "^0.5.19",
         "start-server-and-test": "^1.11.3",
-        "surge": "^0.21.6",
+        "surge": "^0.23.0",
         "ts-node": "^10.4.0",
         "typescript": "^3.9.7",
         "vercel": "^23.1.2"
